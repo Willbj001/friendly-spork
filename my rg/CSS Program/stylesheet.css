@@ -1,0 +1,15 @@
+h1 {
+	font-family: Verdana;
+	font-size: medium;
+	color: rgb(53, 39, 39);
+	background-color: #e46f6f;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	width: 50%;
+	height: 30px;	
+}
+
+html {
+    background-color: #e2906f;
+  }
